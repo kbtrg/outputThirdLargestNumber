@@ -1,4 +1,5 @@
 ## Excution method
 excute below command in terminal.
 
-node outputThirdLargestNumber.js
+1. git clone https://github.com/kbtrg/outputThirdLargestNumber
+2. node outputThirdLargestNumber.js
